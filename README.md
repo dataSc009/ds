@@ -13,3 +13,5 @@ An Adidas sales dataset is a collection of data that includes information on the
 Adidas sales data can be useful for a variety of purposes, such as analyzing sales trends, identifying successful products or marketing campaigns, and developing strategies for future sales. It can also be used to compare Adidas sales to those of competitors, or to analyze the effectiveness of different marketing or sales channels.
 
 There are a variety of sources that could potentially provide an Adidas sales dataset, including Adidas itself, market research firms, government agencies, or other organizations that track sales data. The specific data points included in an Adidas sales dataset may vary depending on the source and the purpose for which it is being used.
+
+Here is the analysis : https://airbnbanalysis.blogspot.com/2023/03/adidas-sales-dataset-adidas-sales-in.html
