@@ -1,40 +1,15 @@
-# About Dataset
-Airbnb Data Cleaning
 
-Airbnb, Inc is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Based in San Francisco, California, the platform is accessible via website and mobile app. Airbnb does not own any of the listed properties; instead, it profits by receiving commission from each booking. The company was founded in 2008. Airbnb is a shortened version of its original name, AirBedandBreakfast.com.
+Adidas Sales Report
+March 22, 2023
 
-About Dataset
+ 
+Adidas Sales Dataset
+Adidas Sales in United States
 
-Context
+About this Dataset
 
-Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in New York City
+An Adidas sales dataset is a collection of data that includes information on the sales of Adidas products. This type of dataset may include details such as the number of units sold, the total sales revenue, the location of the sales, the type of product sold, and any other relevant information.
 
-Content
+Adidas sales data can be useful for a variety of purposes, such as analyzing sales trends, identifying successful products or marketing campaigns, and developing strategies for future sales. It can also be used to compare Adidas sales to those of competitors, or to analyze the effectiveness of different marketing or sales channels.
 
-The following Airbnb activity is included in this New York dataset:
-
-Listings, including full descriptions and average review score Reviews, including unique id for each reviewer and detailed comments Calendar, including listing id and the price and availability for that day
-
-Data Dictionary
-Data dictionaries are used to provide detailed information about the contents of a dataset or database, such as the names of measured variables, their data types or formats, and text descriptions. A data dictionary provides a concise guide to understanding and using the data.
-
-
-Learn Data Cleaning
-
-Data Cleaning Challenge
-
-Handling missing values
-
-Handling Outliers
-
-Handle inconsistent data
-
-Data Visualization
-
-Data analysis
-
-Tried to get below answers from the dataset
-
-Month Wise  Hotel availability ?
-Whats the average price per month ?
-Busiest time for the year?
+There are a variety of sources that could potentially provide an Adidas sales dataset, including Adidas itself, market research firms, government agencies, or other organizations that track sales data. The specific data points included in an Adidas sales dataset may vary depending on the source and the purpose for which it is being used.
