@@ -22,3 +22,13 @@ pandas   1.4.4
 seaborn  0.11.2
 matplotlib   3.5.2
 scikit-learn 1.0.2
+
+File Description :
+
+\data\Adidas.csv  : it contains the Retailer, Region, State & City wise adidas product sales data. Also it includes the channel of sales like instore or online.
+
+Below is the Blog post containing the sales data analysis :
+https://airbnbanalysis.blogspot.com/2023/03/adidas-sales-dataset-adidas-sales-in.html
+
+
+
