@@ -15,3 +15,10 @@ Adidas sales data can be useful for a variety of purposes, such as analyzing sal
 There are a variety of sources that could potentially provide an Adidas sales dataset, including Adidas itself, market research firms, government agencies, or other organizations that track sales data. The specific data points included in an Adidas sales dataset may vary depending on the source and the purpose for which it is being used.
 
 Here is the analysis : https://airbnbanalysis.blogspot.com/2023/03/adidas-sales-dataset-adidas-sales-in.html
+
+Libraries Used:
+
+pandas   1.4.4
+seaborn  0.11.2
+matplotlib   3.5.2
+scikit-learn 1.0.2
